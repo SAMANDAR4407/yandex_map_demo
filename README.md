@@ -1,4 +1,4 @@
-# delivery_demo
+# yandex_demo
 
 A new Flutter project.
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+YANDEX MAP DEMO APP
+
+![image](https://github.com/SAMANDAR4407/yandex_map_demo/assets/69010982/075da3b2-c81e-402f-b3f0-f2f826d94f11)
